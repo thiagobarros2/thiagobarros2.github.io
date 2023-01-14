@@ -1,4 +1,4 @@
 # thiagotesla.github.io
 Portfolio repo.
 
-[LINK](https://thiagotesla.github.io)
+[LINK](https://thiagobarros2.github.io/)
